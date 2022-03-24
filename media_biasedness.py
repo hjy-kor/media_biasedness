@@ -5,11 +5,7 @@ from googleapiclient.errors import HttpError
 from pandas.core.indexes import category
 from oauth2client.tools import argparser
 
-# DEVELOPER_KEY = "AIzaSyDkWpdlwF-Tc7QRyUpiisFn_J5sz45DGWk"
-# DEVELOPER_KEY = "AIzaSyAOgF0u4JjT0dwhT7npELvVFFvy8dURV7w"
-# DEVELOPER_KEY = "AIzaSyBdTEdcjc91dPG4pSWlmtLjbJ9FJFF_y1s"
-# DEVELOPER_KEY = "AIzaSyCgdpS4LVITLa9FlTe2MVgg1yeVcoZ6Yac"
-DEVELOPER_KEY = "AIzaSyAAt855SX56C7Nu3JJ6bAb6V4spWnDdtxE"
+DEVELOPER_KEY = "Your key"
 
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
